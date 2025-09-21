@@ -1,0 +1,79 @@
+{
+  "sets": [
+    {
+      "name": "Unit 1",
+      "s_file": "herewego3/u1/u1-s.tsv",
+      "t_file": "herewego3/u1/u1-w.tsv",
+      "g_file": "herewego3/u1/u1-i.tsv"
+    },
+    {
+      "name": "Unit 2",
+      "s_file": "herewego3/u2/u2-s.tsv",
+      "t_file": "herewego3/u2/u2-w.tsv",
+      "g_file": "herewego3/u2/u2-i.tsv"
+    },
+    {
+      "name": "Unit 3",
+      "s_file": "herewego3/u3/u3-s.tsv",
+      "t_file": "herewego3/u3/u3-w.tsv",
+      "g_file": "herewego3/u3/u3-i.tsv"
+    },
+    {
+      "name": "Unit 3A",
+      "s_file": "herewego3/u3A/u3A-s.tsv",
+      "t_file": "herewego3/u3A/u3A-w.tsv",
+      "g_file": "herewego3/u3A/u3A-i.tsv"
+    },
+    {
+      "name": "Unit 4",
+      "s_file": "herewego3/u4/u4-s.tsv",
+      "t_file": "herewego3/u4/u4-w.tsv",
+      "g_file": "herewego3/u4/u4-i.tsv"
+    },
+    {
+      "name": "Unit 4A",
+      "s_file": "herewego3/u4A/u4A-s.tsv",
+      "t_file": "herewego3/u4A/u4A-w.tsv",
+      "g_file": "herewego3/u4A/u4A-i.tsv"
+    },
+     {
+      "name": "Unit 5",
+      "s_file": "herewego3/u5/u5-s.tsv",
+      "t_file": "herewego3/u5/u5-w.tsv",
+      "g_file": "herewego3/u5/u5-i.tsv"
+    },
+    {
+      "name": "Unit 6",
+      "s_file": "herewego3/u6/u6-s.tsv",
+      "t_file": "herewego3/u6/u6-w.tsv",
+      "g_file": "herewego3/u6/u6-i.tsv"
+    },
+    {
+      "name": "Unit 7",
+      "s_file": "herewego3/u7/u7-s.tsv",
+      "t_file": "herewego3/u7/u7-w.tsv",
+      "g_file": "herewego3/u7/u7-i.tsv"
+    },
+    {
+      "name": "Unit 7A",
+      "s_file": "herewego3/u7A/u7A-s.tsv",
+      "t_file": "herewego3/u7A/u7A-w.tsv",
+      "g_file": "herewego3/u7A/u7A-i.tsv"
+    },
+    {
+      "name": "Unit 8",
+      "s_file": "herewego3/u8/u8-s.tsv",
+      "t_file": "herewego3/u8/u8-w.tsv",
+      "g_file": "herewego3/u8/u8-i.tsv"
+    },
+    {
+      "name": "Unit 8A",
+      "s_file": "herewego3/u8A/u8A-s.tsv",
+      "t_file": "herewego3/u8A/u8A-w.tsv",
+      "g_file": "herewego3/u8A/u8A-i.tsv"
+    }
+  ],
+  "single_files": [
+    "herewego3/ei3_tb_1-4sentence.tsv"
+  ]
+}
